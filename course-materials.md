@@ -47,8 +47,8 @@ Professor [Richard Buckland's](https://www.cse.unsw.edu.au/~richardb/) [course](
 * **Purdue** University's Spring 2019 offering [website](https://www.cs.purdue.edu/homes/jblocki/courses/580_Spring19/).
 * UC **Berkeley's** Efficient Algorithms and Intractable Problems course [website](https://cs170.org/).
 * **UIUC**: Prof. *Jeff Erickson* at UIUC is the author of a [book](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) on Algorithms and maintains a [website](http://jeffe.cs.illinois.edu/teaching/algorithms/) for the algorithms course taught at UIUC. The website contains excellent course material including problem sets, quizes and exams.
-* U of **Waterloo's** Algorithm course taught by Prof. [Douglas Harder](https://ece.uwaterloo.ca/~dwharder/aads/) and [Carlos Moreno
-](https://ece.uwaterloo.ca/~cmoreno/ece250/index.shtml).
+* U of **Waterloo's** Algorithm course taught by Prof. [Douglas Harder](https://ece.uwaterloo.ca/~dwharder/aads/) and [Carlos Moreno](https://ece.uwaterloo.ca/~cmoreno/ece250/index.shtml).
+* U of Washington has a great course [here](https://courses.cs.washington.edu/courses/cse332/20wi/homework/contraction/). It has good programming assignments. Specially on contraction hierarchies.
 * **Sharif** University of Technology's current offering course [website](http://ce.sharif.edu/~safarnejad/ce254/) for *Data Structure and Algorithms*, and also *Algorithm Design* course [website](http://ce.sharif.edu/courses/97-98/2/ce354-2/index.php).
 * Algorithms Graduate Course at [**Georgia Tech**](https://gt-algorithms.com/) also available on [Udacity](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
 
