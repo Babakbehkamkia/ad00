@@ -7,7 +7,7 @@ permalink: /assignments/
 You can download the assignments here (in PDF format). Also check out assignment's pages for any additional info.
 Use [**this**](../static_files/docs/AzureDevOpsAccount.pdf) guide to create Azure DevOps account. Next create a project named AD98992 and finall use [**this**](../static_files/docs/AdminAccess.pdf) guide to give me and TAs admin access.  
 
-> ⚠ When following the guides above, make sure you use your own **student id** and use **AD98992** for project name. Also do not forget to add the **TA Account** as indicated in the guide.
+> ⚠ When following the guides above, make sure you use your own **student id** and use **AD00012** for project name. Also do not forget to add the **TA Account** as indicated in the guide.
 
 ## *Setup*
 After setting up Azure DevOps and cloning it on your computer unpack [**this**](../static_files/assignments/AD98992.rar) starter pack at the root of your repository. This pack includes:
