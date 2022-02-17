@@ -3,32 +3,16 @@ instructor:
   profile_pic: /_images/eetemadi.jpg
 
 teaching_assistants:
-  - name: Mobin Daryoush Hamedani
-    profile_pic: /_images/avatar.png
+  - name: Babak Behkam Kia
+    profile_pic: /_images/babak_behkamkia.jpg
 
-  - name: Hadi Sheikhi
+  - name: Mohammad Khavari
     profile_pic: /_images/sheikhi.jpg
 
-  - name: Sohrab Namazi
-    profile_pic: /_images/namazi.jpg
+  - name: MohammadJavad MehdiTabar
+    profile_pic: /_images/mjavad_mehditabar.jpg
 
-  - name: Sahand Nazarzadeh
-    profile_pic: /_images/avatar.png
 
-  - name: Zahra Hosseini
-    profile_pic: /_images/zahra_hosseini.png
-
-  - name: Yasaman Lotfollahi
-    profile_pic: /_images/avatar.png
-
-  - name: Negar Zeynolabedin
-    profile_pic: /_images/zeynolabedin.jpg
-
-  - name: Melika Nobakhtian
-    profile_pic: /_images/avatar.png
-
-  - name: Mostafa Rostamkhani
-    profile_pic: /_images/rostamkhani.jpg
 
 #  - name: Motahare Mirzaei
 #    profile_pic: /_images/avatar.png
